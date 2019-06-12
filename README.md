@@ -29,3 +29,7 @@ cards from the deck you’d take the first one off the deck
 and hand it to a player. Once that card is handed off it’s 
 no longer in the deck. How would you do the equivalent in 
 code? (Remember your deck is stored in ``_cards``).
+
+The goal is to get something that looks like this:
+
+![Goal](goal.png)
